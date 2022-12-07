@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Vincenzo goes to Datahood</title>
+    <link>https://vincenzogalante.github.io/posts/</link>
+    <description>Recent content in Posts on Vincenzo goes to Datahood</description>
+    <image>
+      <url>https://vincenzogalante.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://vincenzogalante.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://vincenzogalante.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First blog post ever</title>
+      <link>https://vincenzogalante.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 07 Dec 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://vincenzogalante.github.io/posts/my-first-post/</guid>
+      <description>Hello out there, this is my first post. This is the start of a wonderful learning journey full of ups and downs, new insights and learnings.
+The name of this blog is based on the UK band &amp;ldquo;Frankie goes to Hollywood&amp;rdquo;. So, relax.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://vincenzogalante.github.io/posts/about-me/</link>
+      <pubDate>Mon, 07 Dec 2020 10:30:03 +0000</pubDate>
+      
+      <guid>https://vincenzogalante.github.io/posts/about-me/</guid>
+      <description>This blog documents my learning journey. I am not sure where exactly I will end up, but isn&amp;rsquo;t this the beauty of it?
+I am a lifelong learner, combining strategy consulting experience, with product management thinking and full stack web development skills to excel in data.
+Feel free to say hello on LinkedIn or Github.</description>
+    </item>
+    
+  </channel>
+</rss>
