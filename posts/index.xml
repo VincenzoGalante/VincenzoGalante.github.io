@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://vincenzogalante.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Dec 2022 17:28:48 +0100</lastBuildDate><atom:link href="https://vincenzogalante.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where to start?</title>
+      <link>https://vincenzogalante.github.io/posts/where-to-start/</link>
+      <pubDate>Wed, 28 Dec 2022 17:28:48 +0100</pubDate>
+      
+      <guid>https://vincenzogalante.github.io/posts/where-to-start/</guid>
+      <description>Where do you start when you have humanities complete knowledge at your fingertip? I wanted to learn more about data - but how? I felt overwhelmed, and still do. And it is totally okay. We need time to adjust and sort things out.
+I started with the basics of the fundamental languages used for data tasks - SQL and Python - paired with expert interviews. It helped me to understand where I stand, where I want to go and how the road ahead is looking.</description>
+    </item>
+    
     <item>
       <title>First blog post ever</title>
       <link>https://vincenzogalante.github.io/posts/my-first-post/</link>
@@ -18,7 +28,8 @@
       
       <guid>https://vincenzogalante.github.io/posts/my-first-post/</guid>
       <description>Hello out there, this is my first post. This is the start of a wonderful learning journey full of ups and downs, new insights and learnings.
-The name of this blog is based on the UK band &amp;ldquo;Frankie goes to Hollywood&amp;rdquo;. So, relax.</description>
+The name of this blog is based on the UK band &amp;ldquo;Frankie goes to Hollywood&amp;rdquo;. So, relax, take a seat and enjoy the ride.
+🎢</description>
     </item>
     
     <item>
@@ -27,8 +38,10 @@ The name of this blog is based on the UK band &amp;ldquo;Frankie goes to Hollywo
       <pubDate>Mon, 07 Dec 2020 10:30:03 +0000</pubDate>
       
       <guid>https://vincenzogalante.github.io/posts/about-me/</guid>
-      <description>Hi there, I am Vincenzo and this is my journey into Data. From being a consultant for haute couture brands in Paris, analyzing data for the biggest european ecommerce platforms in Berlin, I already made some stops. Over the last years I learned how to think like a product manager and gained hands-on full stack web development skills, just to find my true passion now.
-I am a true lifelong learner and I want to immerse into data analytics and data engineering.</description>
+      <description>Hi there,
+I am Vincenzo and this is my journey into Data.
+From being a consultant for haute couture brands in Paris, analyzing data for the biggest european ecommerce platforms in Berlin, I already made some stops. Over the last years I learned how to think like a product manager and gained hands-on full stack web development skills, just to find my true passion now.
+I am a true lifelong learner and a true autodidact.</description>
     </item>
     
   </channel>
