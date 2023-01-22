@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2023 17:28:48 +0100</lastBuildDate><atom:link href="https://vincenzogalante.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 12:46:15 +0100</lastBuildDate><atom:link href="https://vincenzogalante.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DataTalksClub - Data Engineering Zoomcamp</title>
+      <link>https://vincenzogalante.github.io/posts/dtc-data-engineering/</link>
+      <pubDate>Sun, 22 Jan 2023 12:46:15 +0100</pubDate>
+      
+      <guid>https://vincenzogalante.github.io/posts/dtc-data-engineering/</guid>
+      <description>These last early mornings and late evenings have been filled with setting up my environment for the Data Engineering Zoomcamp.
+My current setup involves a virtual machine, hosting a Postgres database, while being able to query it through pgAdmin - pulling it all up via docker-compose. Furthermore, I got to know the basics on how to setup the Google Cloud infrastructure via Terraform.
+Within the next weeks, I will be working on workflow orchestration via Prefect, data warehousing in BigQuery, analytics engineering with DBT, and batch and stream processing with Kafka.</description>
+    </item>
+    
     <item>
       <title>Where to start?</title>
       <link>https://vincenzogalante.github.io/posts/where-to-start/</link>
