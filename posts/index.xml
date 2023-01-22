@@ -18,7 +18,7 @@
       
       <guid>https://vincenzogalante.github.io/posts/dtc-data-engineering/</guid>
       <description>These last early mornings and late evenings have been filled with setting up my environment for the Data Engineering Zoomcamp.
-My current setup involves a virtual machine, hosting a Postgres database, while being able to query it through pgAdmin - pulling it all up via docker-compose. Furthermore, I got to know the basics on how to setup the Google Cloud infrastructure via Terraform.
+My current setup involves a virtual machine, hosting a Postgres database, while being able to query it through pgAdmin - pulling it all up via docker-compose. Furthermore, I got to know the basics on how to set up the Google Cloud infrastructure via Terraform.
 Within the next weeks, I will be working on workflow orchestration via Prefect, data warehousing in BigQuery, analytics engineering with DBT, and batch and stream processing with Kafka.</description>
     </item>
     
