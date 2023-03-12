@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>test on Vincenzo goes to Datahood</title>
+    <link>https://vincenzogalante.github.io/tags/test/</link>
+    <description>Recent content in test on Vincenzo goes to Datahood</description>
+    <image>
+      <url>https://vincenzogalante.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://vincenzogalante.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jan 2023 12:46:15 +0100</lastBuildDate><atom:link href="https://vincenzogalante.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DataTalksClub - Data Engineering Zoomcamp</title>
+      <link>https://vincenzogalante.github.io/posts/dtc-data-engineering/</link>
+      <pubDate>Sun, 22 Jan 2023 12:46:15 +0100</pubDate>
+      
+      <guid>https://vincenzogalante.github.io/posts/dtc-data-engineering/</guid>
+      <description>These last early mornings and late evenings have been filled with setting up my environment for the Data Engineering Zoomcamp.
+My current setup involves a virtual machine, hosting a Postgres database, while being able to query it through pgAdmin - pulling it all up via docker-compose. Furthermore, I got to know the basics on how to set up the Google Cloud infrastructure via Terraform.
+Within the next weeks, I will be working on workflow orchestration via Prefect, data warehousing in BigQuery, analytics engineering with DBT, and batch and stream processing with Kafka.</description>
+    </item>
+    
+    <item>
+      <title>First blog post ever</title>
+      <link>https://vincenzogalante.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 07 Dec 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://vincenzogalante.github.io/posts/my-first-post/</guid>
+      <description>Hello out there, this is my first post.
+This is the start of a wonderful learning journey full of ups and downs, new insights and learnings.
+The name of this blog is based on the UK band &amp;ldquo;Frankie goes to Hollywood&amp;rdquo;.
+So, relax, take a seat and enjoy the ride.
+🎢</description>
+    </item>
+    
+  </channel>
+</rss>
