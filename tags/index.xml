@@ -9,6 +9,16 @@
       <link>https://vincenzogalante.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vincenzogalante.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 12:46:03 +0100</lastBuildDate><atom:link href="https://vincenzogalante.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>portfolio</title>
+      <link>https://vincenzogalante.github.io/tags/portfolio/</link>
+      <pubDate>Thu, 23 Mar 2023 12:46:03 +0100</pubDate>
+      
+      <guid>https://vincenzogalante.github.io/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
