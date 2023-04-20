@@ -18,7 +18,7 @@
       
       <guid>https://vincenzogalante.github.io/posts/magic-the-gathering/</guid>
       <description>I finished working on my first project and it marks a milestone for me. This project is about &amp;lsquo;Magic: The Gathering&amp;rsquo; - a card game created in the early 90s, which I loved to play with my friends. We went from Pokémon, to Yu-Gi-Oh! to Warhammer 40k. But Magic, really sticked with us.
-In this project I went from knowing nothing about cloud and orchestration, to setting up a Google Cloud environment via terraform, orchestrating a data pipeline reading from an API to push data to BigQuery, transforming my data with DBT and visualizing my insights in a Looker dashboard.</description>
+In this project I went from knowing nothing about cloud and orchestration, to setting up a Google Cloud environment via terraform, orchestrating a data pipeline reading from an API to push data to Google Cloud Storage, to BigQuery, transforming my data with DBT and visualizing my insights in a Looker dashboard.</description>
     </item>
     
   </channel>
